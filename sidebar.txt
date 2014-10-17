@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[set:home|Door43 (set)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-set|d43-set repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-set/archive/master.zip|d43-set.zip]]
+
+**Recent Changes**
+{{changes>ns = set}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/set|Ethnologue data]]
+
